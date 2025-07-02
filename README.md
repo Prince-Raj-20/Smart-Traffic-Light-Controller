@@ -105,7 +105,7 @@ A *Verilog-based Smart Traffic Light Controller* designed using FSM (Finite Stat
    gtkwave basic_tb.vcd
    ```
 
-Tip: Replace testbench file name basic_tb with emergency_tb or queue_tb; with respective extensions (.v or .vcd) to test other scenarios.
+Tip: Replace file name basic_tb with emergency_tb or queue_tb; with respective extensions (.v or .vcd) to test other scenarios.
      
 ---
 
